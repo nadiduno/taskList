@@ -1,7 +1,5 @@
 <h1 align="center">
-  Challenge 01 - Task List 
-  <br />
-  [Rocketseat](https://www.rocketseat.com.br/) © 2022
+  Challenge 01 - Task List | Rocketseat © 2022
 </h1>
 <br>
 <p align="center">
@@ -25,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 TaskList: Permite agregar tarefas a uma lista, depois as tarefas dessa lista podem ser verificadas como feitas ou podem ser eliminadas.
 
-Primer desafio da trilha ReactJs na Rocketseat - 10/2022
+Primer desafio da trilha ReactJs na [Rocketseat](https://www.rocketseat.com.br/)
